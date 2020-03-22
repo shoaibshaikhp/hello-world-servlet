@@ -8,8 +8,8 @@
   <name>hello-world-servlet-example Maven Webapp</name>
   <url>http://maven.apache.org</url>
 	<properties>
-    <maven.compiler.source>3.6.3</maven.compiler.source>
-    <maven.compiler.target>3.6.3</maven.compiler.target>
+    <maven.compiler.source>7</maven.compiler.source>
+    <maven.compiler.target>7</maven.compiler.target>
   </properties>
   <dependencies>
         <dependency>
